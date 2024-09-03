@@ -1,0 +1,8 @@
+@import "./fonts/stylesheet.css";
+
+.content {
+  font-family: "JetBrains Mono", sans-serif;
+  font-weight: 600;
+  font-size: 6rem;
+  /* Specify weight, style, and other properties as needed */
+}
